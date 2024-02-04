@@ -12,23 +12,23 @@ const chalk = require('chalk')
 
 //owmner v card
 global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: Ednut001" //ur github or insta name
+global.socialm = "GitHub: Olamuyiwa46" //ur github or insta name
 global.location = "Nigeria, Lagos, Abuja" //ur location
 
 //new
-global.botname = 'ednut bot md' //ur bot name
-global.ownernumber = '2347036214381' //ur owner number
-global.ownername = '𝐋𝐄𝐆𝐄𝐍𝐃𝐀𝐑𝐘 𝐄𝐃𝐍𝐔𝐓‎' //ur owner name
+global.botname = '🤪𝑪𝑨𝑳𝑳 𝑴𝑯𝑬 𝑩𝑼𝑴𝑩𝑼𝑴🤪' //ur bot name
+global.ownernumber = '2349010895477' //ur owner number
+global.ownername = '🤪𝑪𝑨𝑳𝑳 𝑴𝑯𝑬 𝑩𝑼𝑴𝑩𝑼𝑴🤪' //ur owner name
 global.websitex = "https://chat.whatsapp.com/EduR0psW2l41eonnvegRuk"
 global.wagc = "https://chat.whatsapp.com/EduR0psW2l41eonnvegRuk"
-global.themeemoji = '👀'
-global.wm = " ednut Bot Inc."
+global.themeemoji = '🤪'
+global.wm = "𝑪𝑨𝑳𝑳 𝑴𝑯𝑬 𝑩𝑼𝑴𝑩𝑼𝑴 Inc."
 global.botscript = 'https://github.com/Ednut001/ednutBot-MD10' //script link
 global.packname = "Sticker By"
-global.author = "Ednut"
-global.creator = "2347036214381@s.whatsapp.net"
-global.xprefix = '.'
-global.premium = ["2347036214381"] // Premium User
+global.author = "🤪𝑪𝑨𝑳𝑳 𝑴𝑯𝑬 𝑩𝑼𝑴𝑩𝑼𝑴🤪"
+global.creator = "2349010895477@s.whatsapp.net"
+global.xprefix = '?'
+global.premium = ["2349010895477"] // Premium User
 global.hituet = 0
 
 //bot sett
